@@ -195,4 +195,15 @@ nav ul img {
     font-size: 25px;
     font-weight: bolder;
   }
+  .bottom {
+    position: sticky;
+    height: 100px;
+    background-color: black;
+    color: white;
+    bottom: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
 }
